@@ -11,3 +11,4 @@ count=0
 for element in number:
     if element==digit:
         count+=1
+        print("appearance:\n",count)
